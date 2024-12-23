@@ -1,0 +1,24 @@
+.swiper-pagination {
+  position: static;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @media (max-width: 759px) {
+    margin-top: 16px;
+  }
+  &-bullet {
+    border: 1px solid #007A3B;
+    background-color: #fff;
+    border-radius: 0;
+    opacity: 1;
+    transition-duration: .4s;
+    margin: 0!important;
+    &:not(:last-child) {
+      margin-right: 8px!important;
+    }
+    &-active {
+      background-color: #007A3B;
+    }
+  }
+}

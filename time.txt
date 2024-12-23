@@ -1,0 +1,22 @@
+    1/11
+18:20 - 18:56 (0:36) ui, fonts, header
+    2/11
+07:22 - 07:59 (0:37) hero, about, benefits
+17:20 - 19:40 (2:20) our, plants, row, row_reverse, row, comp, contacts, footer, animation fade-in, animated anchors, about animation, phone mask
+    09/11 () (3:52)
+10:41 - 10:48 (0:07) hero animation
+10:48 - 11:06 (0:18) plants hover animation
+11:06 - 11:19 (0:13) pop-up info, pop-up certificates, pop-up thanks
+11:30 - 12:03 (0:33) pop-up info, pop-up certificates, pop-up thanks
+12:43 - 13:55 (1:12) 1920-1024
+14:26 - 15:55 (1:29) 768-375
+    12/12
+15:41 - 16:01 (0:20) edits
+16:12 - 16:51 (0:39) edits
+    13/12
+09:44 - 10:37 (0:53) edits
+11:06 - 11:34 (0:28) edits
+    14/12
+23:10 - 23:11 (0:01) hover animation backup
+    15/12
+16:26 - 16:37 (0:11) edits

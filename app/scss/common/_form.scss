@@ -1,0 +1,50 @@
+.label {
+  display: flex;
+  flex-direction: column;
+  span {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grayscale/Black */
+
+    color: #333333;
+    margin-bottom: 6px;
+  }
+  input, textarea {
+    width: 100%;
+    font-family: 'Raleway';
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    font-style: normal;
+    appearance: none;
+    outline: none;
+    resize: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+
+    /* Grayscale/70% */
+
+    color: #333333;
+    background: #FFFFFF;
+    /* Grayscale/40% */
+
+    border: 1px solid #ACACAC;
+    border-radius: 4px;
+    padding: 10px 10px;
+    &::placeholder {
+      color: #737373;
+    }
+  }
+  textarea {
+    height: 108px;
+  }
+}

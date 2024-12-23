@@ -1,0 +1,20 @@
+.top {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 60px;
+  @media (max-width: 1549px) {
+    margin-bottom: 50px;
+  }
+  @media (max-width: 999px) {
+    margin-bottom: 30px;
+  }
+}
+.title {
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.label {
+  color: #737373;
+  text-align: center;
+}

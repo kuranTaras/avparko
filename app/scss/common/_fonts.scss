@@ -1,0 +1,193 @@
+// others fonts ../fonts/
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.h1 {
+  font-family: 'Didot';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 130%;
+  color: #333333;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  @media (max-width: 1899px) {
+    font-size: 50px;
+  }
+  @media (max-width: 1549px) {
+    font-size: 46px;
+  }
+  @media (max-width: 1399px) {
+    font-size: 42px;
+  }
+  @media (max-width: 1249px) {
+    font-size: 38px;
+  }
+  @media (max-width: 999px) {
+    font-size: 34px;
+  }
+  @media (max-width: 759px) {
+    font-size: 30px;
+  }
+}
+.h2 {
+  font-family: 'Didot';
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 130%;
+  color: #333333;
+  @media (max-width: 1899px) {
+    font-size: 44px;
+  }
+  @media (max-width: 1549px) {
+    font-size: 40px;
+  }
+  @media (max-width: 1399px) {
+    font-size: 36px;
+  }
+  @media (max-width: 1249px) {
+    font-size: 32px;
+  }
+  @media (max-width: 999px) {
+    font-size: 28px;
+  }
+  @media (max-width: 759px) {
+    font-size: 26px;
+  }
+}
+.h3 {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 150%;
+  /* identical to box height, or 39px */
+
+  font-feature-settings: 'pnum' on, 'lnum' on;
+
+  /* Grayscale/Black */
+
+  color: #333333;
+  @media (max-width: 1549px) {
+    font-size: 20px;
+  }
+  @media (max-width: 999px) {
+    font-size: 22px;
+  }
+}
+.h4 {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%;
+  color: #333333;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  @media (max-width: 1899px) {
+    font-size: 22px;
+  }
+  @media (max-width: 1549px) {
+    font-size: 20px;
+  }
+  @media (max-width: 1399px) {
+    font-size: 20px;
+  }
+  @media (max-width: 1249px) {
+    font-size: 18px;
+  }
+  @media (max-width: 999px) {
+    font-size: 18px;
+  }
+  @media (max-width: 759px) {
+    font-size: 18px;
+  }
+}
+.body {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  color: #333333;
+  @media (max-width: 1899px) {
+    font-size: 20px;
+  }
+  @media (max-width: 1549px) {
+    font-size: 18px;
+  }
+  @media (max-width: 1399px) {
+    font-size: 18px;
+  }
+  @media (max-width: 1249px) {
+    font-size: 16px;
+  }
+  @media (max-width: 999px) {
+    font-size: 16px;
+  }
+  @media (max-width: 759px) {
+    font-size: 16px;
+  }
+}
+.btn-text-small {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  color: #333333;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  @media (max-width: 1899px) {
+    font-size: 18px;
+  }
+  @media (max-width: 1549px) {
+    font-size: 16px;
+  }
+  @media (max-width: 1399px) {
+    font-size: 16px;
+  }
+  @media (max-width: 1249px) {
+    font-size: 14px;
+  }
+  @media (max-width: 999px) {
+    font-size: 14px;
+  }
+  @media (max-width: 759px) {
+    font-size: 14px;
+  }
+}
+.btn-text-big {
+  font-family: 'Didot';
+  font-style: normal;
+  font-weight: bold;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  font-size: 24px;
+  line-height: 130%;
+  color: #333333;
+  @media (max-width: 1899px) {
+    font-size: 24px;
+  }
+  @media (max-width: 1549px) {
+    font-size: 22px;
+  }
+  @media (max-width: 1399px) {
+    font-size: 22px;
+  }
+  @media (max-width: 1249px) {
+    font-size: 20px;
+  }
+  @media (max-width: 999px) {
+    font-size: 20px;
+  }
+  @media (max-width: 759px) {
+    font-size: 20px;
+  }
+}
+.label-text {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  line-height: 150%;
+  color: #333333;
+}
